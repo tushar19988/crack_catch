@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615906563767",
+    "project_id": "catch-1",
+    "storage_bucket": "catch-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615906563767:android:ccbcad5884e605ac8ddf32",
+        "android_client_info": {
+          "package_name": "com.example.catch_crack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615906563767-v3j2pfmrq68vhbq6ppq0cgk0f45i0nnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKdy83v4UZBKXlBEZzD8wcrZprj7emdk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615906563767-v3j2pfmrq68vhbq6ppq0cgk0f45i0nnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
